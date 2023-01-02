@@ -16,10 +16,9 @@ I am a student graduating in 2024, a tech enthusiast<br>having a keen interest i
 ![](https://github-profile-trophy.vercel.app/?username=harshchef&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](Eat Sleep Code Repeat)
 
-### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cometchat.com%2Fblog%2Fprogramming-memes-for-developers&psig=AOvVaw1-ouPE7WzwC8wHJEWqQWE2&ust=1672742417597000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC6uaDZqPwCFQAAAAAdAAAAABAJ" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshchef&icon=0&color=0)](https://visitcount.itsvg.in)
