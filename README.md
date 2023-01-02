@@ -15,8 +15,8 @@ I am a student graduating in 2024, a tech enthusiast<br>having a keen interest i
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshchef&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-Eat Sleep Code Repeat
+### ✍️ Eat Sleep Code Repeat
+
 
 
 
