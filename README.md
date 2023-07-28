@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student graduating in 2024, a tech enthusiast<br>having a keen interest in coding. My fields of interest are<br>cross platform software development, data<br>visualization, ML, AI .I have made apps using flutter and android studio.<br>I have been uploading my projects here<br>
+I am a student graduating in 2024, a tech enthusiast<br>having a keen interest in coding. My fields of interest are<br>cross platform software development, data<br>visualization, Machine Learning, and Artificial Intelligence .I have made web applications , android-ios application using flutter and android studio.<br>I have been uploading my projects here<br>
 
 
 ## 🌐 Socials:
