@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student graduating in 2024, a tech enthusiast<br>having a keen interest in coding. My fields of interest are<br>cross platform software, application development, data<br>visualization, Machine Learning, and Artificial Intelligence .I have made web applications , android-ios application using flutter and android studio.<br>Data Structure and Algorithm, SQL, Computer Networks, Operating System.<br> Problem Solving Skills GeeksforGeek profile url: https://auth.geeksforgeeks.org/user/adityaku8xoe/practice<br>
+I am a student graduating in 2024, a tech enthusiast<br>having a keen interest in coding. My fields of interest are<br>cross platform software, application development, data<br>visualization, Machine Learning, and Artificial Intelligence .I have made web applications , android-ios application using flutter and Android studio.<br>Data Structure and Algorithm, SQL, Computer Networks, Operating System.<br> Problem Solving Skills GeeksforGeek profile url: https://auth.geeksforgeeks.org/user/adityaku8xoe/practice<br>Proficient in language: Java, C++, Python, R,Javascript,php,HTML,CSS,
 
 
 ## 🌐 Socials:
